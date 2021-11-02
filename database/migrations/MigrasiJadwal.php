@@ -4,14 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-/*
-|--------------------------------------------------------------------------
-| Web Migration database by Faiz Hanafi - 1910130008
-|--------------------------------------------------------------------------
-|
-| Data ini adalah data migration yang saya buat sesuai dengan requirement
-| thanks :)
-| 
+
 */
 class CreateTableJadwal extends Migration
 {
